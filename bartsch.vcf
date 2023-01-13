@@ -3,16 +3,8 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 16.2//EN
 N:Bartsch;Alberto;;;
 FN:Alberto Bartsch
-EMAIL;type=INTERNET;type=HOME;type=pref:bartsch2@me.com
-EMAIL;type=INTERNET;type=WORK:alberto.bartsch@gmail.com
+EMAIL;type=INTERNET;type=WORK;type=pref:alberto.bartsch@gmail.com
 TEL;type=CELL;type=VOICE;type=pref:689 030 227
-item1.ADR;type=HOME;type=pref:;;Romer 11;Pobla de Vallbona;Comunidad Valenciana;46185;España
-item1.X-ABADR:es
-item2.ADR;type=WORK:;;Partida del Camí del Cahuets\, 19;Albal;Comunidad Valenciana;46470;España
-item2.X-ABADR:ES
-item2.X-APPLE-SUBADMINISTRATIVEAREA:Valencia
-X-SOCIALPROFILE;type=Game Center;x-user="272728800:http://link.gc.apple.com/players/G:272728800":x-apple:272728800%3Ahttp%3A//link.gc.apple.com/players/G:272728800
-BDAY:1976-05-09
 PHOTO;ENCODING=b:iVBORw0KGgoAAAANSUhEUgAAAUAAAAFACAYAAADNkKWqAAAAAXNSR0IArs
  4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQA
  AAABAAABQKADAAQAAAABAAABQAAAAABiXyf0AABAAElEQVR4Aey9abBkyXUelrW//fXe09ssmB
@@ -1112,22 +1104,4 @@ PHOTO;ENCODING=b:iVBORw0KGgoAAAANSUhEUgAAAUAAAAFACAYAAADNkKWqAAAAAXNSR0IArs
  4F4uXmIfULNNWZcMlAyUDExKBsoMcAttST2NTwnNwljyFM5iUzKw0Qzk7H8WxpLHYkzFlAIYy2
  LRlQyUDEx0BkoBnOjNWwZXMlAyEMtA4yqw/DwQoPKZYCx1RVcyUDIw7hkoM8Bx34Il/pKBkoHs
  DJQCmJ26AiwZKBkY9wz8HwNQevkWXcpuAAAAAElFTkSuQmCC
-item3.X-ABRELATEDNAMES;type=pref:Enrique Bartsch
-item3.X-ABLabel:_$!<Brother>!$_
-item4.X-ABRELATEDNAMES:Mami Argentina
-item4.X-ABLabel:_$!<Mother>!$_
-item5.X-ABRELATEDNAMES:Papi
-item5.X-ABLabel:_$!<Father>!$_
-item6.X-ABRELATEDNAMES:Alejandro Bartsch
-item6.X-ABLabel:_$!<Son>!$_
-item7.X-ABRELATEDNAMES:Marcelo
-item7.X-ABLabel:_$!<Brother>!$_
-item8.X-ABRELATEDNAMES:Mama
-item8.X-ABLabel:_$!<Mother>!$_
-item9.X-ABRELATEDNAMES:Pablo
-item9.X-ABLabel:primo
-item10.X-ABRELATEDNAMES:Carolina
-item10.X-ABLabel:prima
-item11.X-ABRELATEDNAMES:Gonzalo Bartsch
-item11.X-ABLabel:_$!<Son>!$_
 END:VCARD
